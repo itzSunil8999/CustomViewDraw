@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewDraw</string>
+    <string name="hello_custom_views">Hello Custom Views!</string>
+</resources>
